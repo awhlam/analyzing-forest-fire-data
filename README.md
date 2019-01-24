@@ -1,4 +1,4 @@
-# analyzing-forest-fire-data
+# Analyzing Forest Fire Data
 Jupyter notebook in R using [ggplot2](https://ggplot2.tidyverse.org/) exploring forest fire data from Montesinho Natural Park as part of [Dataquests' Data Visualization in R](https://www.dataquest.io/course/r-data-viz) course.
 
 ## Release History
